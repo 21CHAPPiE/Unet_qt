@@ -1,6 +1,6 @@
 # 手把手教你用Unet做医学图像分割
 
-兄弟们好呀，这里是肆十二，这转眼间寒假就要过完了，相信大家的毕设也要准备动手了吧，作为一名大作业区的UP主，也该蹭波热度了，之前关于图像分类和目标检测我们都出了相应的教程，所以这期内容我们搞波新的，我们用Unet来做医学图像分割。我们将会以皮肤病的数据作为示范，训练一个皮肤病分割的模型出来，用户输入图像，模型可以自动分割去皮肤病的区域和正常的区域。废话不多说，先上效果，左侧展示是原始图片，右侧是分割结果。
+我们用Unet来做医学图像分割。我们将会以皮肤病的数据作为示范，训练一个皮肤病分割的模型出来，用户输入图像，模型可以自动分割去皮肤病的区域和正常的区域。废话不多说，先上效果，左侧展示是原始图片，右侧是分割结果。
 
 ![image-20220213204047803](https://vehicle4cm.oss-cn-beijing.aliyuncs.com/typoraimgs/image-20220213204047803.png)
 
@@ -8,7 +8,7 @@
 
 ![image-20220213204230631](https://vehicle4cm.oss-cn-beijing.aliyuncs.com/typoraimgs/image-20220213204230631.png)
 
-<font color='red'>需要远程调试的小伙伴直接扫码加我好友（qq: 3045834499）即可，没有三连的小伙伴99元，三连的小伙伴只需49元，你就可以获取环境配置、标注好的数据集、训练好的模型以及远程在线答疑全套服务。</font>
+<font color='red'></font>
 
 ![image-20220213210830663](https://vehicle4cm.oss-cn-beijing.aliyuncs.com/typoraimgs/image-20220213210830663.png)
 
@@ -297,24 +297,6 @@ python labelme2seg.py docs/annotation/labelme_demo/
 运行的结果如下：
 
 ![image-20220213213018281](https://vehicle4cm.oss-cn-beijing.aliyuncs.com/typoraimgs/image-20220213213018281.png)
-
-## 找到我
-
-<font color='red'>需要远程的调试的小伙伴直接扫码加我好友（qq: 3045834499）即可，没有三连的小伙伴99元，三连的小伙伴只需49元，你就可以获取环境配置、标注好的数据集、训练好的模型以及远程在线答疑全套服务。</font>
-
-你可以通过这些方式来寻找我。
-
-B站：[肆十二-](https://space.bilibili.com/161240964)
-
-CSDN：[肆十二](https://blog.csdn.net/ECHOSON)
-
-知乎：[肆十二 ](https://www.zhihu.com/people/song-chen-ming-28)
-
-微博：[肆十二-](https://weibo.com/u/5999979327)
-
-现在关注以后就是老朋友喽！
-
-![image-20211212195912911](https://vehicle4cm.oss-cn-beijing.aliyuncs.com/typoraimgs/image-20211212195912911.png)
 
 
 
