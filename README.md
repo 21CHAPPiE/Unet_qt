@@ -8,9 +8,6 @@
 
 ![image-20220213204230631](https://vehicle4cm.oss-cn-beijing.aliyuncs.com/typoraimgs/image-20220213204230631.png)
 
-<font color='red'></font>
-
-![image-20220213210830663](https://vehicle4cm.oss-cn-beijing.aliyuncs.com/typoraimgs/image-20220213210830663.png)
 
 ## 算法原理介绍
 
